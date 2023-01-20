@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ME2rbUhBc/Ubd0v0Cmn52akhVA6paihniO6PXSICA+uMSMLngVeTM8qjq2BM9DzCHAoAnN4kt5bY1bkNxfsBUg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ParkingLotSimulation\\ParkingLotSimulation\\ParkingLotSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bharath\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bharath\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
